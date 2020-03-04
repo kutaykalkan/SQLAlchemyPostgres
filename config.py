@@ -1,0 +1,1 @@
+DATABASE_URI = 'postgres+psycopg2://kutaykalkan:admin@localhost:5432/books'
